@@ -1,0 +1,2 @@
+rootProject.name='Own Cloud Storage'
+include ':app'

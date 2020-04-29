@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Own Cloud Storage</string>
+    <string name="share_your_files_from_anywhere_to_anyone">SHARE YOUR FILES FROM ANYWHERE TO ANYONE</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="enter_your_email_id">Enter your Email-ID*</string>
+
+
+</resources>

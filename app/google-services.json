@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "599899747526",
+    "firebase_url": "https://own-cloud-storage.firebaseio.com",
+    "project_id": "own-cloud-storage",
+    "storage_bucket": "own-cloud-storage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599899747526:android:1a1a287e0b24277a2093c7",
+        "android_client_info": {
+          "package_name": "com.example.owncloudstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599899747526-ee9c7t1i0iotbvri9nuinumrihb0dfes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa4guptnJicn_agyu96lokD__dVKsTQoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599899747526-ee9c7t1i0iotbvri9nuinumrihb0dfes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
